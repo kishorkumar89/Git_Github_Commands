@@ -1,0 +1,9 @@
+git commit -- vim screen
+git commit -m your_message_for_commit -- no vim screen
+git log
+git add .    ---stage all the files in a directory.
+git add *.txt  -- stage all the text files.
+touch .gitignore
+git remote
+git clone repository_URL
+git push origin master
