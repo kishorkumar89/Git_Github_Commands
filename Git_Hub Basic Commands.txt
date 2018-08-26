@@ -1,5 +1,12 @@
 Download git from : https://git-scm.com/downloads
 follow the youtube tutorial : https://www.youtube.com/watch?v=Y9XZQO1n_7c for more information.
+
+way to setup your git bash if you have already creted the username and passowd at gitHub
+git config --global user.name myusername
+git config --global user.email myemail
+git config --global github.user myusername
+git config --global github.token mytoken
+
 create a folder:
 open the git bash command at you specific location
 git init (to initialize your folder to be compitable with git)
